@@ -1,4 +1,5 @@
 # nuxt-test
+Nuxt project test, event managment app.
 
 ## Build Setup
 
